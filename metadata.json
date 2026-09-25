@@ -1,0 +1,7 @@
+{
+  "name": "CA Master",
+  "description": "Your Complete CA Study & Practice Companion for CA Foundation, Intermediate, and Final students in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
